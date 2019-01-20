@@ -52,7 +52,7 @@ Location.fetchLocation = (query) => {
   return superAgent.get(url)
     .then( apiResults => {
       console.log('Got LOCATION results from API');
-
+      console.log(apiResults.body);
       if( ! apiResults.body.results.length){ throw 'No LOCATION results';
       } else {
         let location = new Location(query, apiResults);
