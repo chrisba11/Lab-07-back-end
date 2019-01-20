@@ -1,56 +1,17 @@
-# Lab-06
+# Lab-07
 
-**Author**: Paul and Dan
-**Version**: 1.0.0 
+**Authors**
+Paul and Dan (Lab-06 content)
+Chris M. and Paul (Refactored for Lab-07)
+Chris M. and Chris B. (refactored for Lab-08)
+Chris B. (refactored for Lab-07 resubmit)
+
+**Version**: 1.2.0 
 
 ## Overview
 An application that takes user input. The input pings the backend server and displays the results on the screen. 
-
-## Getting Started
-User must add
-   ├── .env
-   ├── .eslintrc.json
-   ├── .gitignore
-   ├── package-lock.json
-   ├── package.json
-   └── server.js
-
-The user must also install a few dependencies. express, superagent, cors and dotenv.
 
 ## Architecture
 Using Jquery, Json, JavaScript, postman
 
 ## Change Log
-
-
-
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
